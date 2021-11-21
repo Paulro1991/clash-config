@@ -1,0 +1,250 @@
+files:
+  - url: ""
+    time: 1627821359020.yml
+    name: config.yaml
+    selected: []
+    mode: rule
+  - time: 1628325342230.yml
+    name: US
+    url: https://api.hope140.live/sub?target=clash&url=https%3A%2F%2Fsspool.herokuapp.com%2Fclash%2Fproxies%3Fc%3DUS%2CCA%26type%3Dvmess%2Ctrojan&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Flhl77%2Fsub-ini%2Fmain%2Ftsutsu-full.ini
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 全局设置
+        now: 🚀 手动选择
+      - name: 🚀 手动选择
+        now: 🇺🇸 US_12954 |90.30Mb
+      - name: 🎯 国内网络
+        now: DIRECT
+      - name: 📲 Telegram
+        now: 🚀 全局设置
+      - name: 📹 Youtube
+        now: 🚀 全局设置
+      - name: 🎥 Netflix
+        now: 🎥 奈飞节点
+      - name: 📺 巴哈姆特
+        now: 🇨🇳 台湾节点
+      - name: 🌍 国外媒体
+        now: 🚀 全局设置
+      - name: 🌏 国内媒体
+        now: DIRECT
+      - name: 🌏 出海媒体
+        now: DIRECT
+      - name: 📢 谷歌FCM
+        now: 🚀 全局设置
+      - name: Ⓜ️ 微软云盘
+        now: 🚀 全局设置
+      - name: 🍎 苹果服务
+        now: 🚀 全局设置
+      - name: 🎮 国际游戏
+        now: 🚀 全局设置
+      - name: 🎶 网易音乐
+        now: DIRECT
+      - name: 🛑 广告拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 其他网站
+        now: 🚀 全局设置
+      - name: 🇭🇰 香港节点
+        now: DIRECT
+      - name: 🇯🇵 日本节点
+        now: DIRECT
+      - name: 🇺🇲 美国节点
+        now: 🇺🇸 US_8586 |21.46Mb
+      - name: 🇸🇬 新加坡节点
+        now: DIRECT
+      - name: 🇨🇳 台湾节点
+        now: DIRECT
+      - name: 🇰🇷 韩国节点
+        now: DIRECT
+      - name: 🎥 奈飞节点
+        now: DIRECT
+      - name: 🔑 专用线路
+        now: DIRECT
+    interval: 2400
+    subInfo: {}
+    cron: ""
+  - time: 1627821544448.yml
+    name: ASIA
+    url: https://api.hope140.live/sub?target=clash&url=https%3A%2F%2Fsspool.herokuapp.com%2Fclash%2Fproxies%3Fc%3DHK%2CJP%2CKR%2CTW%2CSG%26type%3Dvmess&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Flhl77%2Fsub-ini%2Fmain%2Ftsutsu-full.ini
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 全局设置
+        now: 🚀 手动选择
+      - name: 🚀 手动选择
+        now: 🇸🇬 SG_8455
+      - name: 🎯 国内网络
+        now: DIRECT
+      - name: 📲 Telegram
+        now: 🚀 全局设置
+      - name: 📹 Youtube
+        now: 🚀 全局设置
+      - name: 🎥 Netflix
+        now: 🎥 奈飞节点
+      - name: 📺 巴哈姆特
+        now: 🇨🇳 台湾节点
+      - name: 🌍 国外媒体
+        now: 🚀 全局设置
+      - name: 🌏 国内媒体
+        now: DIRECT
+      - name: 🌏 出海媒体
+        now: DIRECT
+      - name: 📢 谷歌FCM
+        now: 🚀 全局设置
+      - name: Ⓜ️ 微软云盘
+        now: 🚀 全局设置
+      - name: 🍎 苹果服务
+        now: 🚀 全局设置
+      - name: 🎮 国际游戏
+        now: 🚀 全局设置
+      - name: 🎶 网易音乐
+        now: DIRECT
+      - name: 🛑 广告拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 其他网站
+        now: 🚀 全局设置
+      - name: 🇭🇰 香港节点
+        now: 🇭🇰 HK_4415
+      - name: 🇯🇵 日本节点
+        now: JP_5771
+      - name: 🇺🇲 美国节点
+        now: DIRECT
+      - name: 🇸🇬 新加坡节点
+        now: 🇸🇬 SG_8330
+      - name: 🇨🇳 台湾节点
+        now: DIRECT
+      - name: 🇰🇷 韩国节点
+        now: DIRECT
+      - name: 🎥 奈飞节点
+        now: DIRECT
+      - name: 🔑 专用线路
+        now: DIRECT
+    interval: 2400
+    subInfo: {}
+    cron: ""
+  - time: 1627821595410.yml
+    name: freefq
+    url: https://api.tsutsu.cc/sub?target=clash&url=https%3A%2F%2Fraw.fastgit.org%2Ffreefq%2Ffree%2Fmaster%2Fv2&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Flhl77%2Fsub-ini%2Fmain%2Ftsutsu-full.ini
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 全局设置
+        now: 🚀 手动选择
+      - name: 🚀 手动选择
+        now: 🇺🇸 github.com/freefq - 美国  35
+      - name: 🎯 国内网络
+        now: DIRECT
+      - name: 📲 Telegram
+        now: 🚀 全局设置
+      - name: 📹 Youtube
+        now: 🚀 全局设置
+      - name: 🎥 Netflix
+        now: 🎥 奈飞节点
+      - name: 📺 巴哈姆特
+        now: 🇨🇳 台湾节点
+      - name: 🌍 国外媒体
+        now: 🚀 全局设置
+      - name: 🌏 国内媒体
+        now: DIRECT
+      - name: 🌏 出海媒体
+        now: DIRECT
+      - name: 📢 谷歌FCM
+        now: 🚀 全局设置
+      - name: Ⓜ️ 微软云盘
+        now: 🚀 全局设置
+      - name: 🍎 苹果服务
+        now: 🚀 全局设置
+      - name: 🎮 国际游戏
+        now: 🚀 全局设置
+      - name: 🎶 网易音乐
+        now: DIRECT
+      - name: 🛑 广告拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 其他网站
+        now: 🚀 全局设置
+      - name: 🇭🇰 香港节点
+        now: 🇭🇰 github.com/freefq - 香港CDN77节点 8
+      - name: 🇯🇵 日本节点
+        now: 🇯🇵 github.com/freefq - 日本东京Amazon数据中心 1
+      - name: 🇺🇲 美国节点
+        now: 🇺🇸 github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 7
+      - name: 🇸🇬 新加坡节点
+        now: 🇸🇬 github.com/freefq - 新加坡CDN77节点 28
+      - name: 🇨🇳 台湾节点
+        now: DIRECT
+      - name: 🇰🇷 韩国节点
+        now: 🇰🇷 github.com/freefq - 韩国首尔Amazon数据中心 49
+      - name: 🎥 奈飞节点
+        now: DIRECT
+      - name: 🔑 专用线路
+        now: DIRECT
+    interval: 2400
+    subInfo: {}
+    cron: ""
+  - time: 1627821622351.yml
+    name: free886
+    url: https://api.hope140.live/sub?target=clash&url=https%3A%2F%2Ffree886.herokuapp.com%2Fclash%2Fproxies&insert=false&config=https%3A%2F%2Fcdn.staticaly.com%2Fgh%2Flhl77%2Fsub-ini%2Fmain%2Ftsutsu-full.ini
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 全局设置
+        now: 🚀 手动选择
+      - name: 🚀 手动选择
+        now: 🇺🇸 US_17
+      - name: 🎯 国内网络
+        now: DIRECT
+      - name: 📲 Telegram
+        now: 🚀 全局设置
+      - name: 📹 Youtube
+        now: 🚀 全局设置
+      - name: 🎥 Netflix
+        now: 🎥 奈飞节点
+      - name: 📺 巴哈姆特
+        now: 🇨🇳 台湾节点
+      - name: 🌍 国外媒体
+        now: 🚀 全局设置
+      - name: 🌏 国内媒体
+        now: DIRECT
+      - name: 🌏 出海媒体
+        now: DIRECT
+      - name: 📢 谷歌FCM
+        now: 🚀 全局设置
+      - name: Ⓜ️ 微软云盘
+        now: 🚀 全局设置
+      - name: 🍎 苹果服务
+        now: 🚀 全局设置
+      - name: 🎮 国际游戏
+        now: 🚀 全局设置
+      - name: 🎶 网易音乐
+        now: DIRECT
+      - name: 🛑 广告拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 其他网站
+        now: 🚀 全局设置
+      - name: 🇭🇰 香港节点
+        now: 🇭🇰 HK_11
+      - name: 🇯🇵 日本节点
+        now: DIRECT
+      - name: 🇺🇲 美国节点
+        now: 🇺🇸 US_17
+      - name: 🇸🇬 新加坡节点
+        now: 🇸🇬 SG_15
+      - name: 🇨🇳 台湾节点
+        now: DIRECT
+      - name: 🇰🇷 韩国节点
+        now: DIRECT
+      - name: 🎥 奈飞节点
+        now: DIRECT
+      - name: 🔑 专用线路
+        now: DIRECT
+    interval: 2400
+    subInfo: {}
+index: 1
